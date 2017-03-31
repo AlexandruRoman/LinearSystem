@@ -1,0 +1,5 @@
+    ADDER  w  x  y
+    FILTER x  in 3 -2 1 0
+    GAIN   y  in 0.5
+    INPUT  in
+    OUTPUT w
